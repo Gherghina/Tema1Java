@@ -8,7 +8,6 @@ public class Dog {
     int spirit = 10;
     String mancare = "Royal Canin";
     String recreere = "mingea";
-
     String colour = "maro";
     String breed = "Corcitura";
     float weight = 8.6f;

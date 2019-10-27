@@ -9,7 +9,7 @@ public class Owner {
 
     public void bucatareste ()
     {
-        System.out.println("tot toc tot");
+        System.out.println("tot! toc! tot! tot ce pot");
     }
 
 
